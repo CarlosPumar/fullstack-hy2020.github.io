@@ -482,7 +482,7 @@ type Mutation {
 
 #### 8.14: Database, part 2
 
-Complete the program so that all queries (to get _allBooks_ working with the parameter _author_ and _bookCount_ field of an author object is not required) and mutations work. 
+Complete the program so that all queries (to get _allBooks_ working with the parameter _author_ and _genres_ field of an author object is not required) and mutations work. 
 
 You might find [this](https://docs.mongodb.com/manual/reference/operator/query/in/) useful.
 
